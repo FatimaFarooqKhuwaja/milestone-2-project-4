@@ -26,10 +26,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      className="bg-blue-950">
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-blue-950`}
+     >
         <div className="flex justify-between mt-2 text-orange-400 ">
-        <a className="text-[20px] font-mono font-bold md:text-5xl md:ml-8">fAtiMa</a>
+        <a className="text-[20px] font-bold md:text-5xl md:ml-8">fAtiMa</a>
         <ul className="flex gap-x-5 md:gap-x-10 text-[13px]  md:text-[20px] md:mr-9">
           <li><a href="/">Home</a></li>
           <li><a href="Aboutme">About Me</a></li>

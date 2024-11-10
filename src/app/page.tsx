@@ -2,7 +2,7 @@ const page = () => {
   return (
     <>
    <div className="md:flex md:justify-around">
-    <div className="p-5 mt-9">  
+    <div className="p-5 mt-16">  
 <h1 className="text-4xl text-white font-bold">Hello I am <span className="text-5xl text-orange-500">Fatima</span></h1>
 <h2 className="text-2xl text-white font-bold mt-3">Frontend Developer</h2>
 <p className="text-white mt-2 font-serif">Hello I am frontend developer.This is my space to share my skills,<br></br> thoughts, and experience.
